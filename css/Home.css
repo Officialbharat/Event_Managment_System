@@ -1,0 +1,27 @@
+#main{
+    /* background-color: rgb(153, 147, 147); */
+    border: 1px solid gray;
+    box-shadow: grey;
+    width: 70%;
+    height: 100vh;
+    margin: auto;
+    border-radius: 10px;
+    
+}
+.heading{
+    font-size: 50px;
+    color: rgb(128, 0, 0);
+    text-align: center;
+}
+.pera{
+    font-size: 30px;
+    text-align: center;
+}
+.instruction{
+    color: rgb(0, 0, 0);
+}
+.congrats{
+    color: green;
+    font-weight: bold;
+    font-size: 30px;
+}

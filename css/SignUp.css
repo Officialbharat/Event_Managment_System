@@ -1,0 +1,25 @@
+._container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+._signUp{
+    display: flex;
+    text-align: right;
+    justify-content: right;
+}
+.container{
+    border: 2px solid #e7dfef;
+    padding: 20px;
+    border-radius: 10px;
+}
+._not_member{
+    margin-right: 10px;
+}
+._gender{
+    display: flex;
+    flex-direction: row;
+}
+._margin{
+    margin-right: 10px;
+}

@@ -1,0 +1,12 @@
+.container{
+    border: 2px solid #e7dfef;
+    padding: 20px;
+    border-radius: 10px;
+}
+._gender{
+    display: flex;
+    flex-direction: row;
+}
+._margin{
+    margin-right: 10px;
+}

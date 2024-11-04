@@ -1,0 +1,35 @@
+.container{
+    border: 2px solid #e7dfef;
+    padding: 20px;
+    border-radius: 10px;
+}
+._Email_image{
+    width: 200px;
+    height: 200px;
+    margin: auto !important;
+    display: flex;
+    flex-direction: row;
+}
+._heading{
+    color: green;
+    text-align: center;
+}
+._title{
+    text-align: center;
+    font-size: 25px;
+}
+._Verification_Message{
+    text-align: center;
+    font-size: 25px;
+}
+._btn_main{
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: space-between;
+}
+._btn1{
+    width: 45%;
+}
+._btn2{
+    width: 45%;
+}
